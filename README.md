@@ -35,6 +35,14 @@ Concise logic and creative engineering were used where possible.
 
 By following these guidelines, the project demonstrates the ability to use unsupervised learning techniques to analyze and cluster cryptocurrency data, providing valuable insights into the effects of 24-hour and 7-day price changes.
 
+## Credits
+Tiffany La Mar
+
+## Contact
+If there are any questions of concerns, I can be reached at:
+##### [github: teelam1910](https://github.com/teelam1910)
+##### [email: tiffanylamarj@gmail.com](mailto:tiffanylamarj@gmail.com)
+
 ## Resources
 - ASU/EdX Tutoring
 - Class Activities
