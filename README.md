@@ -54,4 +54,4 @@ If there are any questions of concerns, I can be reached at:
 - https://www.youtube.com/watch?v=gZ0e40wgdDc&list=PLOLWGEXpOrByXHRGMfU1b7X4esb-c1i2N
 - https://hvplot.holoviz.org/user_guide/Plotting.html
 - https://hvplot.holoviz.org/reference/tabular/line.html
-- 
+- OpenAI
